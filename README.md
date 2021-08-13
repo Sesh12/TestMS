@@ -3,7 +3,7 @@
 ##Seshu
 
 
-##pinky
+##Pinky
 ## This is my first line
 ##456
 
